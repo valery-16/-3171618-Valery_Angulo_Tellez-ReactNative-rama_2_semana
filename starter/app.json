@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "mi-app-semana02",
+    "slug": "mi-app-semana02",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
